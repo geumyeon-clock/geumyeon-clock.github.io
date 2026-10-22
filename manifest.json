@@ -1,0 +1,1 @@
+{"name":"금연 시계","short_name":"금연 시계","description":"안 피운 담배, 아낀 돈, 건강 회복을 실시간으로","start_url":"/","display":"standalone","background_color":"#0b1120","theme_color":"#0b1120","lang":"ko","icons":[{"src":"/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
